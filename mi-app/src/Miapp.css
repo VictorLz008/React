@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+#root {
+    width: 100%;
+}
+
+
+h1{
+    color:aqua;
+}
+
+#btn-i{
+    background-color: greenyellow;
+}
+
+#btn-p{
+    background-color: orangered;
+}
+
+#btn-d{
+    background-color: burlywood;
+}
+
+.btns{
+    color: black;
+    margin: 3px;
+    
+}
+
